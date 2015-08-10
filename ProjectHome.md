@@ -1,0 +1,1 @@
+# Moved: https://tabo.pe/projects/django-treebeard/ (please report issues in https://tabo.pe/projects/django-treebeard/bugs/ ) #
